@@ -1,0 +1,12 @@
+New Race
+#1 - Kirk
+#2 - Leia
+#3 - Jaba
+#4 - Spock
+
+
+New Manual Race
+#1 - Spock
+#2 - Leia
+
+
